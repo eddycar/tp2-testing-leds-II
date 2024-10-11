@@ -1,5 +1,5 @@
 # Testing de Software en Sistemas Embebidos - CESE UBA
-## Trabajo Práctico 2 - 
+## Trabajo Práctico 2 
 
 >Autor: Edilberto Carvajal
 
